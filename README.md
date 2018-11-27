@@ -1,5 +1,4 @@
 # ImageCup
-<br>
 An android APP for Cup Image Similarity Comparison
 <br>
 ## Selected pictures would be available soon.
@@ -8,12 +7,10 @@ These pictures are mannually selected with keyword "Cup" in U.S patent library. 
 <br>
 
 ## Conclusion
-<br>
 Performance improvement is not as expected.
 <br>
 
 ## Initial analysis:
-<br>
   Different patent pictures are sized differently. <br>
   It shall contain a sub-module to pre-process pictures by normalizing the edges.<br>
   Definitely, it could be improved.
