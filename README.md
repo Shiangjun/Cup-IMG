@@ -2,7 +2,6 @@
 An android APP for Cup Image Similarity Comparison
 <br>
 ## Selected pictures would be available soon.
-<br>
 These pictures are mannually selected with keyword "Cup" in U.S patent library. [link]()
 <br>
 
